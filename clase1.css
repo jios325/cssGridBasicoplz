@@ -1,16 +1,20 @@
+
+
+/*
+Clase 1
 .contenedor{
     display: grid;
     border: 5px solid #e1bee7;
     background-color: #fff1ff;
-    grid-template-rows : 150px 200px;
-    grid-auto-columns: 100px;
-    grid-auto-flow:column;
-    
-    
-    gap : 20px 10px;
+    grid-template-columns: 100px 100px;
+    grid-template-rows: 100px 100px 100px;
+    grid-auto-flow: column;
+    gap : 20px;
 }
 
 .item{
     border: 5px solid #00bcd4;
     font-size: 4rem;
-}
+} */
+
+

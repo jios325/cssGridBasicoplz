@@ -1,0 +1,14 @@
+
+.contenedor{
+    display: grid;
+    border: 5px solid #e1bee7;
+    background-color: #fff;
+    grid-template-columns: minmax(200px, 300px)  200px minmax(60px, 250px);
+    grid-template-rows: repeat(12, auto);
+}
+
+.item{
+    border: 5px solid #e1bee7;
+    font-size: 2rem;
+}
+
